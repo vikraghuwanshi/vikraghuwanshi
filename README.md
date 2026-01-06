@@ -73,8 +73,8 @@ A fault-tolerant pipeline for validating data stored on S3.
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vikram-singh-raghuwanshi
-- 📧 Email: vikram.raghuwanshi@gmail.com
+- 💼 LinkedIn: linkedin.com/in/vikram-raghuwanshi-0766503a
+- 📧 Email: vikramraghuwanshi12@gmail.com
 
 ---
 
