@@ -1,4 +1,4 @@
-# Hi 👋 I'm Vikram Singh Raghuwanshi
+# Hi 👋 I'm Vikram Raghuwanshi
 
 Backend Engineer with 8+ years of experience building reliable, data-intensive enterprise systems using Python, SQL, PySpark, and AWS.
 
